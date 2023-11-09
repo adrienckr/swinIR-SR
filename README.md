@@ -30,7 +30,6 @@ Follow these simple steps to set up your environment for using the MMagic Stable
 
 4. **Install PyTorch by referring to the [official PyTorch documentation](https://pytorch.org/). Select the appropriate configuration based on your system and follow the installation instructions.**
 
-   ![PyTorch Installation]
 
 5. **Install the `MMCV` library using `MIM`, a package manager for AI and machine learning dependencies. Run the following commands:**
 
