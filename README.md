@@ -1,5 +1,5 @@
 
-# 📷 Image Denoising with MMagic's DeNoise Model 🌟
+# 📷 Image Upscaling with MMagic's Super-Resolution Model 🌟
 
 This Python script demonstrates how to use the MMagic API to remove noise from images and enhance their quality using the DeNoise model. Simply provide an input image, and the script will generate a denoised output! 🧹🖼️
 
