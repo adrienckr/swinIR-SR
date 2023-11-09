@@ -1,0 +1,103 @@
+=====================================
+Super-Resolution Model Downloads
+=====================================
+
+## 001 Classical Image Super-Resolution (middle size)
+
+### Setting 1: Model trained on DIV2K with training_patch_size=48
+- Model Description: SwinIR x2s48w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x2s48w8d6e180_8xb4-lr2e-4-500k_div2k-ed2d419e.pth)
+- Config Link: [Config File](configs/swinir/swinir_x2s48w8d6e180_8xb4-lr2e-4-500k_div2k.py)
+
+- Model Description: SwinIR x3s48w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x3s48w8d6e180_8xb4-lr2e-4-500k_div2k-926950f1.pth)
+- Config Link: [Config File](configs/swinir/swinir_x3s48w8d6e180_8xb4-lr2e-4-500k_div2k.py)
+
+- Model Description: SwinIR x4s48w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x4s48w8d6e180_8xb4-lr2e-4-500k_div2k-88e4903d.pth)
+- Config Link: [Config File](configs/swinir/swinir_x4s48w8d6e180_8xb4-lr2e-4-500k_div2k.py)
+
+### Setting 2: Model trained on DIV2K+Flickr2K with training_patch_size=64
+- Model Description: SwinIR x2s64w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x2s64w8d6e180_8xb4-lr2e-4-500k_df2k-69e15fb6.pth)
+- Config Link: [Config File](configs/swinir/swinir_x2s64w8d6e180_8xb4-lr2e-4-500k_df2k.py)
+
+- Model Description: SwinIR x3s64w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x3s64w8d6e180_8xb4-lr2e-4-500k_df2k-d6982f7b.pth)
+- Config Link: [Config File](configs/swinir/swinir_x3s64w8d6e180_8xb4-lr2e-4-500k_df2k.py)
+
+- Model Description: SwinIR x4s64w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x4s64w8d6e180_8xb4-lr2e-4-500k_df2k-0502d775.pth)
+- Config Link: [Config File](configs/swinir/swinir_x4s64w8d6e180_8xb4-lr2e-4-500k_df2k.py)
+
+## 002 Lightweight Image Super-Resolution (small size)
+
+- Model Description: SwinIR x2s64w8d4e60
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x2s64w8d4e60_8xb4-lr2e-4-500k_div2k-131d3f64.pth)
+- Config Link: [Config File](configs/swinir/swinir_x2s64w8d4e60_8xb4-lr2e-4-500k_div2k.py)
+
+- Model Description: SwinIR x3s64w8d4e60
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x3s64w8d4e60_8xb4-lr2e-4-500k_div2k-309cb239.pth)
+- Config Link: [Config File](configs/swinir/swinir_x3s64w8d4e60_8xb4-lr2e-4-500k_div2k.py)
+
+- Model Description: SwinIR x4s64w8d4e60
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x4s64w8d4e60_8xb4-lr2e-4-500k_div2k-d6622d03.pth)
+- Config Link: [Config File](configs/swinir/swinir_x4s64w8d4e60_8xb4-lr2e-4-500k_div2k.py)
+
+## 003 Real-World Image Super-Resolution
+
+- Model Description: SwinIR GAN x2s64w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_gan-x2s64w8d6e180_8xb4-lr1e-4-600k_df2k-os-c6425057.pth)
+- Config Link: [Config File](configs/swinir/swinir_gan-x2s64w8d6e180_8xb4-lr1e-4-600k_df2k-ost.py)
+
+- Model Description: SwinIR PSNR x2s64w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_psnr-x2s64w8d6e180_8xb4-lr1e-4-600k_df2k-os-6f0c425f.pth)
+- Config Link: [Config File](configs/swinir/swinir_psnr-x2s64w8d6e180_8xb4-lr1e-4-600k_df2k-ost.py)
+
+- Model Description: SwinIR GAN x4s64w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_gan-x4s64w8d6e180_8xb4-lr1e-4-600k_df2k-os-36960d18.pth)
+- Config Link: [Config File](configs/swinir/swinir_gan-x4s64w8d6e180_8xb4-lr1e-4-600k_df2k-ost.py)
+
+- Model Description: SwinIR PSNR x4s64w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_psnr-x4s64w8d6e180_8xb4-lr1e-4-600k_df2k-os-a016a72f.pth)
+- Config Link: [Config File](configs/swinir/swinir_psnr-x4s64w8d6e180_8xb4-lr1e-4-600k_df2k-ost.py)
+
+- Model Description: SwinIR GAN x4s64w8d9e240
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_gan-x4s64w8d9e240_8xb4-lr1e-4-600k_df2k-os-9f1599b5.pth)
+- Config Link: [Config File](configs/swinir/swinir_gan-x4s64w8d9e240_8xb4-lr1e-4-600k_df2k-ost.py)
+
+- Model Description: SwinIR PSNR x4s64w8d9e240
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_psnr-x4s64w8d9e240_8xb4-lr1e-4-600k_df2k-os-25f1722a.pth)
+- Config Link: [Config File](configs/swinir/swinir_psnr-x4s64w8d9e240_8xb4-lr1e-4-600k_df2k-ost.py)
+
+## CPU Test (No GPU Required)
+
+## 001 Classical Image Super-Resolution (middle size)
+
+### Setting 1: Model trained on DIV2K with training_patch_size=48
+- Model Description: SwinIR x2s48w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x2s48w8d6e180_8xb4-lr2e-4-500k_div2k-ed2d419e.pth)
+- Config Link: [Config File](configs/swinir/swinir_x2s48w8d6e180_8xb4-lr2e-4-500k_div2k.py)
+
+- Model Description: SwinIR x3s48w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x3s48w8d6e180_8xb4-lr2e-4-500k_div2k-926950f1.pth)
+- Config Link: [Config File](configs/swinir/swinir_x3s48w8d6e180_8xb4-lr2e-4-500k_div2k.py)
+
+- Model Description: SwinIR x4s48w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x4s48w8d6e180_8xb4-lr2e-4-500k_div2k-88e4903d.pth)
+- Config Link: [Config File](configs/swinir/swinir_x4s48w8d6e180_8xb4-lr2e-4-500k_div2k.py)
+
+### Setting 2: Model trained on DIV2K+Flickr2K with training_patch_size=64
+- Model Description: SwinIR x2s64w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x2s64w8d6e180_8xb4-lr2e-4-500k_df2k-69e15fb6.pth)
+- Config Link: [Config File](configs/swinir/swinir_x2s64w8d6e180_8xb4-lr2e-4-500k_df2k.py)
+
+- Model Description: SwinIR x3s64w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x3s64w8d6e180_8xb4-lr2e-4-500k_df2k-d6982f7b.pth)
+- Config Link: [Config File](configs/swinir/swinir_x3s64w8d6e180_8xb4-lr2e-4-500k_df2k.py)
+
+- Model Description: SwinIR x4s64w8d6e180
+- Model Download Link: [Download Model](https://download.openmmlab.com/mmediting/swinir/swinir_x4s64w8d6e180_8xb4-lr2e-4-500k_df2k-0502d775.pth)
+- Config Link: [Config File](configs/swinir/swinir_x4s64w8d6e180_8xb4-lr2e-4-500k_df2k.py)
+
+=====================================
