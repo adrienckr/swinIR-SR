@@ -78,4 +78,4 @@ Follow these simple steps to set up your environment for using the MMagic Stable
 
 You will get an enhanced quality of your image by increasing the resolution of the image with MMagic's SwinIR Image Super-Resolution model! 📷✨
 
-Make sure to provide the correct paths for your input and output images to enjoy beautifully denoised results. 🧼🌈
+Make sure to provide the correct paths for your input and output images to enjoy upscaled images. 🧼🌈
