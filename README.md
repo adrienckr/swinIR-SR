@@ -2,6 +2,11 @@
 # 📷 Image Denoising with MMagic's DeNoise Model 🌟
 
 This Python script demonstrates how to use the MMagic API to remove noise from images and enhance their quality using the DeNoise model. Simply provide an input image, and the script will generate a denoised output! 🧹🖼️
+
+## Clone this repository
+```bash
+git clone https://github.com/adrienckr/swinIR-SR.git
+```
 ## Prerequisites 🛠️
 
 Before you get started, make sure you have the following dependencies installed:
